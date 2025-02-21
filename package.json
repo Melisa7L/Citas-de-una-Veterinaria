@@ -3,10 +3,10 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://melisa7l.github.io/citas/",
+  "homepage": "https://melisa7l.github.io/citas_react_vite/",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/citas/",
+    "build": "vite build --base=/citas_react_vite/",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
   },
