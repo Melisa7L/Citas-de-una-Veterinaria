@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-    "homepage": "https://melisa7l.github.io/citas/",
+  "homepage": "https://melisa7l.github.io/citas/",
   "scripts": {
     "dev": "vite",
     "build": "vite build --base=/citas/",
